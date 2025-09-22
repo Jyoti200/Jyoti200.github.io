@@ -1,4 +1,4 @@
-# Hi, I'm [Jyoti Vyas] 👋
+# Hi, I'm Jyoti Vyas 👋
 
 I turn messy data into clear stories that help businesses make better decisions.
 
