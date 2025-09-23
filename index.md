@@ -10,5 +10,7 @@ I turn messy data into clear stories that help businesses make better decisions.
 ## Current Focus
 Working on projects involving customer behaviour analysis and sales forecasting.
 
+## [View My Projects](projects.md)
+
 ## Let's Connect
 Jyotivyasdataanalyst@gmail.com  
