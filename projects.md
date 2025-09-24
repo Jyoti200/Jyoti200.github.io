@@ -22,7 +22,7 @@
 
 **Tech**: Python, scikit-learn, NLTK, TextBlob
 
-*[View Code on GitHub]*(https://github.com/Jyoti200/youtube-feedback-analyzer)
+[View Code on GitHub](https://github.com/Jyoti200/youtube-feedback-analyzer)
 
 ---
 ## Project 3: Medicaid Drug Utilisation Analysis
@@ -34,7 +34,7 @@
 
 **Tech**: Python, Snowflake, Power BI, SQL, DAX
 
-*[View Code on GitHub]*(https://github.com/Jyoti200/StateDrugUtilizationAnalysis)
+[View Code on GitHub](https://github.com/Jyoti200/StateDrugUtilizationAnalysis)
 
 ---
 ## Project 3: NIFTY 50 Portfolio Analysis
@@ -46,5 +46,5 @@
 
 **Tech:** Python, pandas, numpy, matplotlib, financial modelling
 
-*[View Code on GitHub]*(https://github.com/Jyoti200/financial_portfolio_analysis)
+[View Code on GitHub](https://github.com/Jyoti200/financial_portfolio_analysis)
 
