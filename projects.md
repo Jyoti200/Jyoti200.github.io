@@ -24,6 +24,8 @@
 
 **Tech**: Python, scikit-learn, NLTK, TextBlob
 
+[View demo video on YouTube](https://youtu.be/Bbnd_lP2pBo)
+
 [View Code on GitHub](https://github.com/Jyoti200/youtube-feedback-analyzer)
 
 ---
@@ -35,6 +37,8 @@
 **Impact**: Revealed small packages cost disproportionately more, in some states, 100% Medicaid-dependent for drug coverage
 
 **Tech**: Python, Snowflake, Power BI, SQL, DAX
+
+[Check out the case study](https://victorious-bougon-37a.notion.site/State-Drug-Utilization-Program-Analysis-20d11f4de15980f2a7eed13e4bc19fcd?pvs=74)
 
 [View Code on GitHub](https://github.com/Jyoti200/StateDrugUtilizationAnalysis)
 
