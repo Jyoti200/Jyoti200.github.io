@@ -8,6 +8,7 @@
 **Impact**: Identified top-performing platforms and regional preferences, reduced analysis time from weeks to minutes
 
 **Tech**: AWS S3, Amazon Athena, Power BI, SQL
+
 [View Interactive dashboard video](https://youtu.be/fJg3IIQ0vP4)
 
 [View Code on GitHub](https://github.com/Jyoti200/AWS_s3_VideoGamesPowerBI)
